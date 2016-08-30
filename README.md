@@ -4,7 +4,7 @@ The fantastic [dillinger.io](http://dillinger.io) wrapped in an Electron app. Mi
 
 To run:
 
-    $ git clone git@github.com:nornagon/dillinger-app
+    $ git clone https://github.com/nornagon/dillinger-app
     $ cd dillinger-app
     $ npm install
     $ npm start
